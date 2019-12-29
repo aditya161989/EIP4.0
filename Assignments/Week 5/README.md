@@ -12,7 +12,7 @@ This assignment was to train a model for multi label classification with a train
 
 - LR Range test found out the optimal learning rate.
 
-  [Results](LR Range Test.PNG)
+  ![](LR_Range_Test.PNG)
 
 - Cutout and image augmentation was used.
 
