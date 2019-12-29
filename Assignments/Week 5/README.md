@@ -12,19 +12,19 @@ This assignment was to train a model for multi label classification with a train
 
 - LR Range test found out the optimal learning rate.
 
-  ![](./LR Range Test.PNG)
+  [LR Range Test](./LR Range Test.PNG)
 
 - Cutout and image augmentation was used.
 
 ## Results
 
-`{'age_output_acc': 0.3870967741935484,
-'bag_output_acc': 0.5700604838709677,
-'emotion_output_acc': 0.7142137096774194,
-'footwear_output_acc': 0.5292338709677419,
-'gender_output_acc': 0.5866935483870968,
-'image_quality_output_acc': 0.5383064516129032,
-'pose_output_acc': 0.6421370967741935,
+`{'age_output_acc': 0.3870967741935484,   
+'bag_output_acc': 0.5700604838709677,   
+'emotion_output_acc': 0.7142137096774194,   
+'footwear_output_acc': 0.5292338709677419,   
+'gender_output_acc': 0.5866935483870968,   
+'image_quality_output_acc': 0.5383064516129032,   
+'pose_output_acc': 0.6421370967741935,   
 'weight_output_acc': 0.6436491935483871}`
 
 ## What did not work for me
