@@ -43,3 +43,6 @@ This assignment was to train a model for multi label classification with a train
 
 - The LR Range finder code was being executed in notebook in another browser but for the same model and has not been included in this script.
 - Super convergence was used for 50 epochs on the penultimate run and to try a little more luck the last run was scheduled without it. 
+
+
+
